@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm TRÄW🤟 a Pythonist.
 
-I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Level iv Security](https://youtube.com/levelivsec) & [NOOBSEC](https://youtube.com/noobsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools,fuzzing and hacking all the things
+I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Level iv Security](https://youtube.com/levelivsec) & [NOOBSEC](https://youtube.com/noobsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things
 
 :mailbox: Reach me out!
 
@@ -9,11 +9,11 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 #### Communities 🕵🕵
 ##### Hang out with Level iv Security and Noob Security members on Telegram  & Discord.
 
- [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4) [![Telegram](https://img.shields.io/badge/Telegram @levelivsec-Join us on Telegram-blue&link=https://t.me/levelivsec)](https://t.me/levelivsec) [![Telegram](https://img.shields.io/badge/Telegram @noobsec-Join us on Telegram-blue&link=https://t.me/noobsec)](https://t.me/noobsec)
+ [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4) ![Telegram](https://img.shields.io/badge/%40levelivsec-Join%20us%20on%20telegram-blue)(https://t.me/levelivsec) ![Telegram](https://img.shields.io/badge/%40noobsec-Join%20us%20on%20telegram-blue)(https://t.me/noobsec) ![Telegram](https://img.shields.io/badge/%40premiumrigs-Join%20us%20on%20telegram-blue)(https://t.me/premiumrigs)
+
 
 
  
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 - 🔭 I’m currently working at @noobsec & @levelivsec 
 - :computer: Most used line of code `import socket`
