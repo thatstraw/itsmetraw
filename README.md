@@ -9,8 +9,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 #### Communities 🕵🕵
 ##### Hang out with Level iv Security and Noob Security members on Telegram  & Discord.
 
- [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4) ![Telegram](https://img.shields.io/badge/%40levelivsec-Join%20us%20on%20telegram-blue&link=https://t.me/levelivsec) ![Telegram](https://img.shields.io/badge/%40noobsec-Join%20us%20on%20telegram-blue&link=https://t.me/noobsec) ![Telegram](https://img.shields.io/badge/%40premiumrigs-Join%20us%20on%20telegram-blue&link=https://t.me/premiumrigs)
-
+ [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4)
 
 
  
