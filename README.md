@@ -46,15 +46,21 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why N00BSEC & Level iv Security Youtube Channel, Telegram Channel and Discord servers exists!
+[NOOBSEC telegram channel](https://t.me/noobsec) [Level iv Security telegram channel](https://t.me/noobsec)
 
-#### What is Level iv Security?
+---
+#### What is Level iv Security 🕵🕵?
 
  Level iv Security is an Ethical Hacking & Cybersecurity Community, we love to meet new people, teach and learn.
  We are always looking to help, to learn with our members. We encourage people to begin a Legal interesting in Hacking. We are happy to guide, and inspire people to pick a Legal field in Hacking.
  At L4Sec we are always looking for new ways to interact with Member(s) from CTFs to movie night. Levelivsec loves to interact with all, and everyone. We offer a wide range of support in our server channels. We have professionals, and Students who are always active, and friendly.
  In-case you don't know, we don't encourage illegal hacking, we have strict rules we expect all Member(s) and Staff to follow at all times. notes : Anyone caught asking/selling/encouraging illegal acts will be subject to a ban.
 
-#### What is Noob Security?
+ [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876)
+
+ ---
+
+#### What is Noob Security 🕵🕵?
 
  N00BSEC discord server is a community driven server that supports  programming  technology, bug bounty, ethical Hacking  discussions.
 
@@ -63,6 +69,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
  computer Ethical hacking support
  scroll Linux, Windows , Mac support as well! 
 
+ [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4)
+ ---
 #### Coding Stats
 
 <!--START_SECTION:waka-->
