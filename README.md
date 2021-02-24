@@ -9,10 +9,11 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 #### Communities 🕵🕵
 ##### Hang out with Level iv Security and Noob Security members on Telegram  & Discord.
 
- [![Discord](https://img.shields.io/discord/731263849990193153?color=blue&label=Levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=blue&label=NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4)
+ [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4) [![Telegram](https://img.shields.io/badge/Telegram @levelivsec-Join us on Telegram-blue&link=https://t.me/levelivsec)](https://t.me/levelivsec) [![Telegram](https://img.shields.io/badge/Telegram @noobsec-Join us on Telegram-blue&link=https://t.me/noobsec)](https://t.me/noobsec)
+
 
  
-
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 - 🔭 I’m currently working at @noobsec & @levelivsec 
 - :computer: Most used line of code `import socket`
@@ -23,9 +24,8 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
 
 
 <br />
