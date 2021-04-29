@@ -7,7 +7,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 [![Twitter Badge](https://img.shields.io/badge/-@spectertraw-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/spectertraw) [![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
 
 #### Communities 🕵🕵
-##### Hang out with Level iv Security and Noob Security members on Telegram  & Discord.
+##### Join our amazing hackers discord community in invite link below
 
  [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
