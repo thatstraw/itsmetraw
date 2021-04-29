@@ -18,7 +18,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 - :computer: Most used line of code `import socket`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/spectertraww.
-- 😄 Pronouns: NOOBSEC, Level iv Security, premimiumrigs.
+- 😄 Pronouns: XTREMESEC, 0XC8 - HACKING RESOURCES, NOOBSEC, Level iv Security, premimiumrigs.
 - ⚡ Fun fact: I play games and read a few novels.
 
 #### Top Technologies
