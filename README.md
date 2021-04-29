@@ -1,15 +1,15 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm TRÄW🤟(Pythonist).
 
-I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Level iv Security](https://youtube.com/levelivsec) & [NOOBSEC](https://youtube.com/noobsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials .I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
+I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTREMESEC](https://youtube.com/xtremesec) & [LEVELIVSEC](https://youtube.com/levelivsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials .I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@spectertraw-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/spectertraw) [![Mail Badge](https://img.shields.io/badge/-NOOBSEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/noobsec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@spectertraw-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/spectertraw) [![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
 
 #### Communities 🕵🕵
 ##### Hang out with Level iv Security and Noob Security members on Telegram  & Discord.
 
- [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876) [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4)
+ [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
 
  
@@ -46,21 +46,11 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [Lev
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why N00BSEC & Level iv Security Youtube Channel, Telegram Channel and Discord servers exists!
-[NOOBSEC telegram channel](https://t.me/noobsec) [Level iv Security telegram channel](https://t.me/noobsec)
+[XTREMESEC telegram channel](https://t.me/xtreme_sec) 
 
 ---
-#### What is Level iv Security 🕵🕵?
 
- Level iv Security is an Ethical Hacking & Cybersecurity Community, we love to meet new people, teach and learn.
- We are always looking to help, to learn with our members. We encourage people to begin a Legal interesting in Hacking. We are happy to guide, and inspire people to pick a Legal field in Hacking.
- At L4Sec we are always looking for new ways to interact with Member(s) from CTFs to movie night. Levelivsec loves to interact with all, and everyone. We offer a wide range of support in our server channels. We have professionals, and Students who are always active, and friendly.
- In-case you don't know, we don't encourage illegal hacking, we have strict rules we expect all Member(s) and Staff to follow at all times. notes : Anyone caught asking/selling/encouraging illegal acts will be subject to a ban.
-
- [![Discord](https://img.shields.io/discord/731263849990193153?color=red&label=@levelivsec&logo=Discord&style=flat-square&link=https://discord.gg/THJX876)](https://discord.gg/THJX876)
-
- ---
-
-#### What is Noob Security 🕵🕵?
+#### What is Xtreme Security 🕵🕵?
 
  N00BSEC discord server is a community driven server that supports  programming  technology, bug bounty, ethical Hacking  discussions.
 
@@ -69,7 +59,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
  computer Ethical hacking support
  scroll Linux, Windows , Mac support as well! 
 
- [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@NOOBSEC&logo=Discord&style=flat-square&link=https://discord.gg/wauq8bDbw4)](https://discord.gg/wauq8bDbw4)
+ [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
  ---
 #### Coding Stats
 
