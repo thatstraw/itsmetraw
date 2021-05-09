@@ -14,7 +14,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 
  
 
-- 🔭 I’m currently working at @noobsec & @levelivsec 
+- 🔭 I’m currently working at @xtremesec
 - :computer: Most used line of code `import socket`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/spectertraww.
