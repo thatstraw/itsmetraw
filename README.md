@@ -4,7 +4,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@spectertraww-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OxTRAW)](https://twitter.com/OxTRAW) [![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@OxTRAW-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/OxTRAW) [![Mail Badge](https://img.shields.io/badge/-OxTRAWW-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
 
 #### Communities 🕵🕵
 ##### Join our amazing hackers discord community in invite link below
@@ -17,7 +17,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 - 🔭 I’m currently working at @xtremesec
 - :computer: Most used line of code `import socket`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/spectertraww.
+- 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/OxTRAW.
 - 😄 Pronouns: XTREMESEC, 0XC8 - HACKING RESOURCES, NOOBSEC, Level iv Security, premimiumrigs.
 - ⚡ Fun fact: I play games and read a few novels.
 
@@ -36,7 +36,7 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=spectertraww.spectertraww)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OxTRAW.OxTRAW)
 
 <details>
 <summary>
@@ -78,7 +78,7 @@ YAML            ░░░░░░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![TRÄW's🤟 github stats](https://github-readme-stats.vercel.app/api?username=spectertraww&count_private=true&theme=tokyonight&hide=contribs,prs)
+![TRÄW's🤟 github stats](https://github-readme-stats.vercel.app/api?username=OxTRAW&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
