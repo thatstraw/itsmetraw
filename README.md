@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm TRÄW🤟(Pythonist).
 
-I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTREMESEC](https://youtube.com/xtremesec) & [LEVELIVSEC](https://youtube.com/levelivsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials .I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
+I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTREMEPENTESTING](https://youtube.com/xtremesec) & [LEVELIVSEC](https://youtube.com/levelivsec). I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials .I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
 
 :mailbox: Reach me out!
 
