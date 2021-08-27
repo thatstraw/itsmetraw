@@ -21,10 +21,6 @@ I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.
 
 #### Top Technologies
 
-
-
-
-
 <br />
 <br />
 
