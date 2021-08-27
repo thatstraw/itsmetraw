@@ -19,14 +19,6 @@ I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 - ⚡ Fun fact: I loved gorillas <3
 
-#### Top Technologies
-
-<br />
-<br />
-
-#### Bizness
-- :email: spectertraww@gmail.com
-
 
 #### Profile Visits 
 
