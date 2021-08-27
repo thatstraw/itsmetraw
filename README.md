@@ -1,6 +1,6 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm TRÄW🤟(Pythonist).
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm TRÄW🤟(Pythonista).
 
-I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.uz.ac.zw/). I Spend most of time coding outstanding ethical hacking projects, blogging and tweeting about linux, networking, python, pentesting on [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest).I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
+I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.uz.ac.zw/). I Spend most of time coding outstanding ethical hacking projects, blogging and tweeting about linux, networking, python, pentesting on [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest). I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.
 
 :mailbox: Reach me out!
 
@@ -43,22 +43,7 @@ I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why N00BSEC & Level iv Security Youtube Channel, Telegram Channel and Discord servers exists!
-[XTREMESEC telegram channel](https://t.me/xtreme_sec) 
 
----
-
-#### What is Xtreme Security 🕵🕵?
-
- N00BSEC discord server is a community driven server that supports  programming  technology, bug bounty, ethical Hacking  discussions.
-
- Any skills you got doesn't matter you can learn here and make new friends meet new people & other ethical hackers. We have ethical hacking & programming support and discussions. Noobs Security is oppened to everyone  that is interested in these subjects, we offer special help a great helper team you can learn share your knowledge, learn form others.
-
- computer Ethical hacking support
- scroll Linux, Windows , Mac support as well! 
-
- [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
- ---
 #### Coding Stats
 
 <!--START_SECTION:waka-->
