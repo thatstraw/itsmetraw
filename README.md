@@ -10,9 +10,6 @@ I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
- [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
-
-
  
 - :computer: Most used line of code `import module`
 - 🤔 I’m looking for help with Outstanding Video ideas.
