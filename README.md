@@ -4,20 +4,19 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) [![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) [![Mail Badge](https://img.shields.io/badge/-@OxTRAW-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/0xTRAW) [![Mail Badge](https://img.shields.io/badge/-OxTRAWW-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) 
 #### Communities 🕵🕵
 ##### Join our amazing hackers discord community in invite link below
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
+[![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
  [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
 
  
 - :computer: Most used line of code `import module`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/OxTRAW.
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 - ⚡ Fun fact: I loved gorillas <3
 
 #### Top Technologies
