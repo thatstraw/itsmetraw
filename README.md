@@ -9,17 +9,16 @@ I'm TRÄW🤟🏻, i'm a beginner in ethical hacking and Content Creator on [XTR
 #### Communities 🕵🕵
 ##### Join our amazing hackers discord community in invite link below
 
+
+[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
  [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
 
  
-
-- 🔭 I’m currently working at @xtremesec
-- :computer: Most used line of code `import socket`
+- :computer: Most used line of code `import module`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/OxTRAW.
-- 😄 Pronouns: XTREMESEC, 0XC8 - HACKING RESOURCES, NOOBSEC, Level iv Security, premimiumrigs.
-- ⚡ Fun fact: I play games and read a few novels.
+- ⚡ Fun fact: I loved gorillas <3
 
 #### Top Technologies
 
