@@ -6,8 +6,8 @@ I'm TRÄW🤟🏻, currently doing HNE(Network Engineering at [UoZ](https://www.
 
 [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 #### Communities 🕵🕵
-##### Join our amazing hackers discord community in invite link below
-
+##### Join our amazing hackers twitter community and learn something new daily from my daily tweets
+_**What to expect to learn from me: linux, networking, python, pentesting, ethical hacking, hacking scripts development**_
 
 [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
  
