@@ -1,4 +1,4 @@
-![](/.github/hacking mode.jpg)
+![](/.github/mode.jpg)
 <br>
 <br>
 
