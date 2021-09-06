@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi there 👋  I'm TRÄW🤟</h1>
-<h3 align="center">A  Network Engineering Student at UoZ who is always learning.I Spend most of time coding some ethical hacking projects, blogging and tweeting about linux, networking, python, pentesting on <a href="https://twitter.com/xtremepentest">xtremepentest</a> I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.</h3>
+<h3 align="center">A  Network Engineering Student at UoZ who is always learning.I Spend most of time coding some ethical hacking projects, [blogging](https://xtremepentest.hashnode.dev/) and tweeting about linux, networking, python, pentesting on <a href="https://twitter.com/xtremepentest">xtremepentest</a> I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.</h3>
 
 
 
