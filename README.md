@@ -1,4 +1,4 @@
-![](/.github/ba.png")
+![](/.github/ba.png)
 <br>
 <br>
 
