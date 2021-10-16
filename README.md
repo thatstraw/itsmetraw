@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Linux Command Line & Shell Scripting, Python, Pentesting**
 - 👯 I’m looking to collaborate on **Open Source Projects and Participate in CTFs**
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/0xtraw)
-- 📝 Trying to write articles on my [Medium](https://medium.com/@fabricio.unix)
+- 📝 Trying to write articles on my [Hashnode](https://xtremepentest.hashnode.dev/)
 - 💬 What to expect to learn from me: **Python, Linux, Shell Scripting, Pentesting, Networking**
 - :mailbox: Reach me out! [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 - :happy: Fun fact **I love gorillas <3:gorilla:**
