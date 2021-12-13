@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi there 👋  I'm TRÄW🤟</h1>
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!</h3>
+<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!<br> First Year Network Engineering Student at University of Zimbabwe</h3>
 
 
 
