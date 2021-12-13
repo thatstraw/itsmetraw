@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi there 👋  I'm TRÄW🤟</h1>
-<h3 align="center">A first year Network Engineering Student at the University of Zimbabwe who is always learning.I Spend most of time coding some ethical hacking projects, <a href="https://xtremepentest.hashnode.dev/">blogging</a> and tweeting about linux, networking, python, pentesting on <a href="https://twitter.com/xtremepentest">xtremepentest</a> I'm engaged in the development of information security projects, penetration testing tools and post-exploitation frameworks.</h3>
+<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!</h3>
 
 
 
