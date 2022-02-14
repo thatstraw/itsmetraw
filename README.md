@@ -8,7 +8,9 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xtraw" alt="0xtraw" /> </p>
+
 ![](/.github/colored.png)
+
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xtremepentest?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=xtremepentest) [![Twitter Follow](https://img.shields.io/twitter/follow/0xtraw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=0xtraw)
