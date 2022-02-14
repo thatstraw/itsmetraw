@@ -9,6 +9,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xtraw" alt="0xtraw" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+
+[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/xtremepentest?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=xtremepentest)
+
 ![](/.github/colored.png)
 
 - 🔭 I’m currently working on **#30DaysOfPython #4Hackers**
@@ -19,13 +25,6 @@
 - 💬 What to expect to learn from me: **Python, Linux, Shell Scripting, Pentesting, Networking**
 - :mailbox: Reach me out! [![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 - :happy: Fun fact **I love gorillas <3:gorilla:**
-
-![](/.github/colored.png)
-
-
-<h3 align="left">Connect with me:</h3>
-
-[![Twitter Badge](https://img.shields.io/badge/-@OxTRAW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xTRAW)](https://twitter.com/0xTRAW) [![Twitter Badge](https://img.shields.io/badge/-@xtremepentest-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xtremepentest)](https://twitter.com/xtremepentest)
 
 ![](/.github/colored.png)
 
