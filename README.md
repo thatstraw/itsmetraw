@@ -3,22 +3,22 @@
 <br>
 
 ## 👋Hi! Traw here :D
-I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on Twitter and on my blog.
+I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on ![Twitter](https://twitter/xtremepentest) and on my ![blog](https://xtremepentest.hashnode.dev).
 
 
-## 📜Artcles and threads
-I break down complex Linux, security and networking topics and explain with clarity as Twitter threads or blogs making  your learning journey easier :) 
+## Artcles and threads📜
+I break down complex Linux, security and networking topics and explain with clarity as ![Twitter](https://twitter/xtremepentest) threads or [blogs](https://xtremepentest.hashnode.dev) making  your learning journey easier :) 
 
-## 🧪Experiments
+## Experiments🧪
 I also enjoy developing some security related projects in Python. I'm a language agnostic but I love Python. For my projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-## 📖What I am learning
+## What I am learning📖
 I'm currently learning blockchain, Web 3 Security and Smart contract development with Solidity.
 
-## 🔗Connect With me
+## Connect With me🔗
 [![Twitter Follow](https://img.shields.io/twitter/follow/xtremepentest?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=xtremepentest) [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://xtremepentest.hashnode.dev/)
 
-## 👨‍💻Tech Stack
+## Tech Stack👨‍💻
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -32,8 +32,18 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+## My Recent Articles ✍️
+- [The Ultimate Hacker's Roadmap 2022](https://twitter.com/xtremepentest/status/1497486570487746560?s=20&t=c7B-5KdU_cngQB3HfpXmOA)
+- [Critical Zero-Day Vulnerability In Apache Log4j Java-based logging library](https://xtremepentest.hashnode.dev/critical-zero-day-vulnerability-in-apache-log4j-java-based-logging-library)
+-  [Hacker Diaries 0x02: Reveald! How I Easily Hacked Harare Institute of Technology (The Simplicity Will Blow Your Mind!](https://xtremepentest.hashnode.dev/hacker-diaries-0x02-reveald-how-i-easily-hacked-harare-institute-of-technology-the-simplicity-will-blow-your-mind)
+- # [How to Brute Force ZIP File Passwords in Python](https://xtremepentest.hashnode.dev/how-to-brute-force-zip-file-passwords-in-python)
+- # [A Brief Introduction to scapy](https://xtremepentest.hashnode.dev/a-brief-introduction-to-scapy)
+- # [Creating Your Own Keylogger](https://xtremepentest.hashnode.dev/creating-your-own-keylogger)
+- # [How to setup your ftp server in Linux](https://xtremepentest.hashnode.dev/how-to-setup-your-ftp-server-in-linux)
+- # [Creating an FTP Brute Forcer(ftpbust3r) in python](https://xtremepentest.hashnode.dev/creating-an-ftp-brute-forcerftpbust3r-in-python)
+- # [Create a your own Wi-Fi password stealer](https://xtremepentest.hashnode.dev/create-a-your-own-wi-fi-password-stealer)
 
-## 🧰Daily Drivers
+## Daily Drivers🧰
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -51,7 +61,7 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-## 💻Operating Systems I'm familiar with
+## Operating Systems I'm familiar with💻
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Elementary](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
@@ -65,7 +75,7 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ![]()'
 
-## 💬Social
+## Social💬
 ![Bio.link](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -77,7 +87,7 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 
-## 🎁Sponsor
+## Sponsor🎁
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/0xtraw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
