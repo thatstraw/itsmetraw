@@ -2,23 +2,23 @@
 <br>
 <br>
 
-Hi! Traw here :D
+## 👋Hi! Traw here :D
 I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on Twitter and on my blog.
 
 
-Artcles and threads
+## 📜Artcles and threads
 I break down complex Linux, security and networking topics and explain with clarity as Twitter threads or blogs making  your learning journey easier :) 
 
-Experiments
+## 🧪Experiments
 I also enjoy developing some security related projects in Python. I'm a language agnostic but I love Python. For my projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-What I am learning
+## 📖hat I am learning
 I'm currently learning blockchain, Web 3 Security and Smart contract development with Solidity.
 
-### Connect With me
+## 🔗Connect With me
 [![Twitter Follow](https://img.shields.io/twitter/follow/xtremepentest?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=xtremepentest) [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://xtremepentest.hashnode.dev/)
 
-## Tech Stack
+## 👨‍💻Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -33,7 +33,7 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
-## Daily Drivers
+## 🧰Daily Drivers
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -51,7 +51,7 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-## Operating Systems I'm familiar with
+## 💻Operating Systems I'm familiar with
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Elementary](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
@@ -63,8 +63,9 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
-![]()
-## Social
+![]()'
+
+## 💬Social
 ![Bio.link](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)
 ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -76,14 +77,14 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 
-## Sponsor
+## 🎁Sponsor
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/0xtraw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- start statics fun section -->
-<details>
-<summary><b> Some Statistics Fun </b></summary>
+
+## 📉Some statistics for fun <br/>
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=0xtraw&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=0xtraw&theme=tokyonight&hide_langs_below=4' />
@@ -95,7 +96,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img src="https://activity-graph.herokuapp.com/graph?username=0xtraw&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
-</details>
 <!-- end statics fun section -->
 
 
