@@ -12,7 +12,7 @@ I break down complex Linux, security and networking topics and explain with clar
 ## 🧪Experiments
 I also enjoy developing some security related projects in Python. I'm a language agnostic but I love Python. For my projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-## 📖hat I am learning
+## 📖What I am learning
 I'm currently learning blockchain, Web 3 Security and Smart contract development with Solidity.
 
 ## 🔗Connect With me
