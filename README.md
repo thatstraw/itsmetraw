@@ -82,6 +82,19 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/0xtraw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+**Bitcoin Address**
+```
+bc1q33ncrxzpuc5n02dc05kl44vpmaw53wf3ztq78q
+```
+**Etherium Address**
+```
+0x1c9155bc825CBa45B64741f2E33069d6808AdD92
+```
+**Litecoin Address**
+```
+LRvPjCq3ZNunLz3bnSc4wz4FDJF8AZUJLK
+```
+
 <!-- start statics fun section -->
 
 ## 📉Some statistics for fun <br/>
