@@ -3,11 +3,11 @@
 <br>
 
 ## 👋Hi! Traw here :D
-I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on ![Twitter](https://twitter/xtremepentest) and on my ![blog](https://xtremepentest.hashnode.dev).
+I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on [Twitter](https://twitter/xtremepentest) and on my ![blog](https://xtremepentest.hashnode.dev).
 
 
 ## Artcles and threads📜
-I break down complex Linux, security and networking topics and explain with clarity as ![Twitter](https://twitter/xtremepentest) threads or [blogs](https://xtremepentest.hashnode.dev) making  your learning journey easier :) 
+I break down complex Linux, security and networking topics and explain with clarity as [Twitter](https://twitter/xtremepentest) threads or [blogs](https://xtremepentest.hashnode.dev) making  your learning journey easier :) 
 
 ## Experiments🧪
 I also enjoy developing some security related projects in Python. I'm a language agnostic but I love Python. For my projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
