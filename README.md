@@ -32,17 +32,6 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## My Recent Articles ✍️
-- [The Ultimate Hacker's Roadmap 2022](https://twitter.com/xtremepentest/status/1497486570487746560?s=20&t=c7B-5KdU_cngQB3HfpXmOA)
-- [Critical Zero-Day Vulnerability In Apache Log4j Java-based logging library](https://xtremepentest.hashnode.dev/critical-zero-day-vulnerability-in-apache-log4j-java-based-logging-library)
--  [Hacker Diaries 0x02: Reveald! How I Easily Hacked Harare Institute of Technology (The Simplicity Will Blow Your Mind!](https://xtremepentest.hashnode.dev/hacker-diaries-0x02-reveald-how-i-easily-hacked-harare-institute-of-technology-the-simplicity-will-blow-your-mind)
-- # [How to Brute Force ZIP File Passwords in Python](https://xtremepentest.hashnode.dev/how-to-brute-force-zip-file-passwords-in-python)
-- # [A Brief Introduction to scapy](https://xtremepentest.hashnode.dev/a-brief-introduction-to-scapy)
-- # [Creating Your Own Keylogger](https://xtremepentest.hashnode.dev/creating-your-own-keylogger)
-- # [How to setup your ftp server in Linux](https://xtremepentest.hashnode.dev/how-to-setup-your-ftp-server-in-linux)
-- # [Creating an FTP Brute Forcer(ftpbust3r) in python](https://xtremepentest.hashnode.dev/creating-an-ftp-brute-forcerftpbust3r-in-python)
-- # [Create a your own Wi-Fi password stealer](https://xtremepentest.hashnode.dev/create-a-your-own-wi-fi-password-stealer)
-
 ## Daily Drivers🧰
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -85,6 +74,18 @@ I'm currently learning blockchain, Web 3 Security and Smart contract development
 ![Quoarag](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+
+## My Recent Articles ✍️
+- [The Ultimate Hacker's Roadmap 2022](https://twitter.com/xtremepentest/status/1497486570487746560?s=20&t=c7B-5KdU_cngQB3HfpXmOA)
+- [Critical Zero-Day Vulnerability In Apache Log4j Java-based logging library](https://xtremepentest.hashnode.dev/critical-zero-day-vulnerability-in-apache-log4j-java-based-logging-library)
+- [Hacker Diaries 0x02: Reveald! How I Easily Hacked Harare Institute of Technology (The Simplicity Will Blow Your Mind!](https://xtremepentest.hashnode.dev/hacker-diaries-0x02-reveald-how-i-easily-hacked-harare-institute-of-technology-the-simplicity-will-blow-your-mind)
+- [How to Brute Force ZIP File Passwords in Python](https://xtremepentest.hashnode.dev/how-to-brute-force-zip-file-passwords-in-python)
+- [A Brief Introduction to scapy](https://xtremepentest.hashnode.dev/a-brief-introduction-to-scapy)
+- [Creating Your Own Keylogger](https://xtremepentest.hashnode.dev/creating-your-own-keylogger)
+- [How to setup your ftp server in Linux](https://xtremepentest.hashnode.dev/how-to-setup-your-ftp-server-in-linux)
+- [Creating an FTP Brute Forcer(ftpbust3r) in python](https://xtremepentest.hashnode.dev/creating-an-ftp-brute-forcerftpbust3r-in-python)
+- [Create a your own Wi-Fi password stealer](https://xtremepentest.hashnode.dev/create-a-your-own-wi-fi-password-stealer)
 
 
 ## Sponsor🎁
