@@ -3,7 +3,7 @@
 <br>
 
 ## 👋Hi! Traw here :D
-I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on [Twitter](https://twitter/xtremepentest) and on my ![blog](https://xtremepentest.hashnode.dev).
+I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, both on [Twitter](https://twitter/xtremepentest) and on my [blog](https://xtremepentest.hashnode.dev).
 
 
 ## Artcles and threads📜
