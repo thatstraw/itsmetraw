@@ -7,7 +7,7 @@ I'm a 21-year-old Network Engineering Undergraduate, an enthusiastic programmer 
 
 
 ## Artcles and threads📜
-I break down complex Linux, security and networking topics and explain with clarity as [Twitter](https://twitter/xtremepentest) threads or [blogs](https://xtremepentest.hashnode.dev) making  your learning journey easier :) 
+I break down complex Linux, security and networking topics and explain with clarity as [Twitter](https://twitter.com/xtremepentest) threads or [blogs](https://xtremepentest.hashnode.dev) making  your learning journey easier :) 
 
 ## Experiments🧪
 I also enjoy developing some security related projects in Python. I'm a language agnostic but I love Python. For my projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
