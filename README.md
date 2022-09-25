@@ -11,9 +11,8 @@
 
 <!-- Social icons section -->
 <p align="center">
- <a href="https://www.youtube.com/c/xtremepentest?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/xtremepentest">
+  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/0xtraw/" alt="Marlene's linkedin"><img width="32px" height="26px"  src="https://github.com/marlenezw/marlenezw/blob/main/mylinkedinicon.png"/></a>
@@ -30,18 +29,15 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/xtremepentest?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/xtremepentest?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/xtremepentest">
-    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/xtremepentest?color=%231DA1F2&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
+  <a href="https://www.youtube.com/c/xtremepentest?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/xtremepentest">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/0xtraw?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/0xtraw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://komarev.com/ghpvc/?username=0xtraw">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://komarev.com/ghpvc/?username=0xtraw">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0xtraw&style=for-the-badge&color=grey"/></a>
 </p>
