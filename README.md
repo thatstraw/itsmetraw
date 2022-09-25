@@ -38,6 +38,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/0xtraw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/0xtraw/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/0xtraw-profile-views"/></a>
+   <a href="https://komarev.com/ghpvc/?username=0xtraw">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0xtraw&style=for-the-badge&color=grey"/></a>
 </p>
