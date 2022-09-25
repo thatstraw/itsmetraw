@@ -36,7 +36,7 @@
   <a href="https://www.youtube.com/channel/xtremepentest?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/xtremepentest?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/xtremepentest">
-    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/xtremepentest?color=%23E1AD0E&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
+    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/xtremepentest?color=%231DA1F2&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
   <a href="https://github.com/0xtraw?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/0xtraw?tab=followers">
