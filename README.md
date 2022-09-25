@@ -11,8 +11,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://www.youtube.com/c/xtremepentest?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/xtremepentest">
   <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/0xtraw/" alt="Marlene's linkedin"><img width="32px" height="26px"  src="https://github.com/marlenezw/marlenezw/blob/main/mylinkedinicon.png"/></a>
