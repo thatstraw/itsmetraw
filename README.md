@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Traw+here+%3AD;Network+Engineering+Undergraduate.;An+enthusiastic+programmer+and;penetration+tester;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;and+on+my+blog." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=A02CFD&width=435&lines=%F0%9F%91%8B+Hi!+Traw+here+%3AD;Network+Engineering+Undergraduate.;An+enthusiastic+programmer+and;penetration+tester;who+loves+to+explore%2C;automate%2C+break%2C;learn%2C+and+hack+all+things!;I+like+to+build+and;learn+in+the+open%2C;sharing+new+projects%2C+insights;and+thoughts%2C+both+on+Twitter;and+on+my+blog." alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
