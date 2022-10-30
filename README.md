@@ -1,7 +1,10 @@
-<h3 align="center">
-  Welcome to Traw's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!-- code inspired by - https://github.com/marlenezw -->
+
+<h2 align="center">
+  Welcome to Traw's Github!
+ <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
+</h2>
+
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -11,22 +14,48 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
+  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
+  <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/9Eg8NkqdEh" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/0xtraw/" alt="Marlene's linkedin"><img width="32px" height="26px"  src="https://github.com/marlenezw/marlenezw/blob/main/mylinkedinicon.png"/></a>
+  <a href="https://www.linkedin.com/in/0xtraw/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@xtremepentest"><img width="32px" height="25px" alt="Medium" title="Marlene's medium page" src="https://github.com/marlenezw/marlenezw/blob/main/mymediumicon.png"></a>
+  <a href="https://medium.com/@xtremepentest"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/0xtraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/marlenezw/marlenezw/blob/main/coffee.png"/></a>
+  <a href="https://ko-fi.com/0xtraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://xtremepentest.hashnode.dev/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/marlenezw/marlenezw/blob/main/gift.png"/></a>
+  <a href="https://xtremepentest.hashnode.dev/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/gift.png"/></a>
 </p>
 
 <br/>
+
+
+<h2 align="center">
+📘 My Repositories
+</h2>
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="center">
+  <a href="https://github.com/0xTRAW/Cybersecurity-Roadmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Cybersecurity-Roadmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap"></a>
+  <a href="https://github.com/0xTRAW/PwnLnX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=PwnLnX&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="PwnLnX-Advanced-Reverse-shell"></a>
+  <a href="https://github.com/0xTRAW/Linux-Privilege-Escalation-MindMap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Privilege-Escalation-MindMap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Privilege-Escalation-MindMap"></a>
+  <a href="https://github.com/0xTRAW/Linux-Commands-A-Z"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-A-Z&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-A-Z"></a>
+  <a href="https://github.com/0xTRAW/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
+  <a href="https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xTraw&repo=Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"></a>
+  <a href="https://github.com/0xTRAW/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
+  <a href="https://github.com/0xTRAW/vim-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=vim-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
+  <a href="https://github.com/0xTRAW/Linux-Commands-Mindmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-Mindmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-Mindmap"></a>
+  <a href="https://github.com/0xTRAW/pyscriptsforpentesters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=pyscriptsforpentesters&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyscriptsforpentesters"></a>
+  <a href="https://github.com/0xTRAW/LearnLinuxQuickly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=LearnLinuxQuickly&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-quickly"></a>
+  <a href="https://github.com/0xTRAW/commandlinechaining"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=commandlinechaining&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-command-line-chaining"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xTRAW?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
