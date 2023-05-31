@@ -14,19 +14,19 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/purpleyoutube.png"/></a>
+  <a href="https://www.youtube.com/c/xtremepentest"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
+  <a href="https://twitter.com/xtremepentest"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
+  <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/0xtraw/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
+  <a href="https://www.linkedin.com/in/itsmetraw/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@xtremepentest"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mymediumicon.png"></a>
+  <a href="https://medium.com/@xtremepentest"><img width="32px" height="25px" alt="Medium" title="Traw's medium page" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/0xtraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
+  <a href="https://ko-fi.com/itsmetraw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://xtremepentest.hashnode.dev/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/gift.png"/></a>
+  <a href="https://xtremepentest.hashnode.dev/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/itsmetraw/itsmetraw//blob/main/.github/gift.png"/></a>
 </p>
 
 
@@ -39,12 +39,12 @@
   <a href="https://www.youtube.com/c/xtremepentest">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8VXjXD4_ahVoJY5a0AqOQw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/xtremepentest?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
-  <a href="https://github.com/0xtraw?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/0xtraw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://komarev.com/ghpvc/?username=0xtraw">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0xtraw&style=for-the-badge&color=grey"/></a>
+  <a href="https://github.com/itsmetraw?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/itsmetraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/itsmetraw?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/itsmetraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://komarev.com/ghpvc/?username=itsmetraw">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=itsmetraw&style=for-the-badge&color=grey"/></a>
 </p>
 
 
@@ -61,18 +61,18 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/0xTRAW/Cybersecurity-Roadmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Cybersecurity-Roadmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap"></a>
-  <a href="https://github.com/0xTRAW/PwnLnX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=PwnLnX&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="PwnLnX-Advanced-Reverse-shell"></a>
-  <a href="https://github.com/0xTRAW/Linux-Privilege-Escalation-MindMap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Privilege-Escalation-MindMap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Privilege-Escalation-MindMap"></a>
-  <a href="https://github.com/0xTRAW/Linux-Commands-A-Z"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-A-Z&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-A-Z"></a>
-  <a href="https://github.com/0xTRAW/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
-  <a href="https://github.com/0xTRAW/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xTraw&repo=Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"></a>
-  <a href="https://github.com/0xTRAW/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
-  <a href="https://github.com/0xTRAW/vim-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=vim-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
-  <a href="https://github.com/0xTRAW/Linux-Commands-Mindmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-Mindmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-Mindmap"></a>
-  <a href="https://github.com/0xTRAW/pyscriptsforpentesters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=pyscriptsforpentesters&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyscriptsforpentesters"></a>
-  <a href="https://github.com/0xTRAW/LearnLinuxQuickly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=LearnLinuxQuickly&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-quickly"></a>
-  <a href="https://github.com/0xTRAW/commandlinechaining"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=commandlinechaining&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-command-line-chaining"></a>
+  <a href="https://github.com/itsmetraw/Cybersecurity-Roadmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Cybersecurity-Roadmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap"></a>
+  <a href="https://github.com/itsmetraw/PwnLnX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=PwnLnX&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="PwnLnX-Advanced-Reverse-shell"></a>
+  <a href="https://github.com/itsmetraw/Linux-Privilege-Escalation-MindMap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Privilege-Escalation-MindMap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Privilege-Escalation-MindMap"></a>
+  <a href="https://github.com/itsmetraw/Linux-Commands-A-Z"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-A-Z&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-A-Z"></a>
+  <a href="https://github.com/itsmetraw/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
+  <a href="https://github.com/itsmetraw/Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=0xTraw&repo=Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion"></a>
+  <a href="https://github.com/itsmetraw/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
+  <a href="https://github.com/itsmetraw/vim-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=vim-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
+  <a href="https://github.com/itsmetraw/Linux-Commands-Mindmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=Linux-Commands-Mindmap&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands-Mindmap"></a>
+  <a href="https://github.com/itsmetraw/pyscriptsforpentesters"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=pyscriptsforpentesters&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyscriptsforpentesters"></a>
+  <a href="https://github.com/itsmetraw/LearnLinuxQuickly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=LearnLinuxQuickly&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-quickly"></a>
+  <a href="https://github.com/itsmetraw/commandlinechaining"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xTraw&repo=commandlinechaining&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-linux-command-line-chaining"></a>
 </p>
 
 <p align="center">
